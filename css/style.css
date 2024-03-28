@@ -1,0 +1,70 @@
+/* Add your custom CSS here */
+
+/* Styling for navigation */
+.navigation {
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.navigation h4 {
+    margin: 0;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #000;
+    margin-right: 10px;
+}
+
+/* Styling for splashScreen */
+.splashScreen {
+    margin-bottom: 20px;
+}
+
+.splashScreen h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.splashScreen p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.splashScreen a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+/* Styling for services */
+.services {
+    margin-bottom: 20px;
+}
+
+.services button {
+    margin-right: 10px;
+}
+
+/* Styling for features */
+.features {
+    margin-bottom: 20px;
+}
+
+.features h4 {
+    margin-bottom: 10px;
+}
+
+.features p {
+    color: #666;
+}
+
+.features a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+/* Styling for attribution */
+.attribution p {
+    margin: 0;
+}
